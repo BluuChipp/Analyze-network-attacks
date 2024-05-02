@@ -20,4 +20,4 @@ Cybersecurity Analyze network attacks incident report
 <img width="553" alt="image" src="https://github.com/BluuChipp/Analyze-network-attacks/assets/144733257/f9772b44-7f7b-4dca-b2ff-d75d477b7c0f">
 
 
-in the File above I used a Analyze network attacks incident report to document details about Wireshark TCP/HTTP log attack on a companys network. 
+in the File above I used a Analyze network incident report to document details about Wireshark TCP/HTTP log attack on a companys network. 
