@@ -1,23 +1,28 @@
-# Networks and Network Security 
+# Security hardening
 
 # Analyze network attacks
+
+
 - a customer of the company that you work for who experiences a security issue when accessing the company’s website, identify the likely cause of the service interruption. Then, explain how the attack occurred and the negative impact it had on the website. 
 
 # Tools 
-- packet sniffer 
+- sandbox environment
+- Use the NIST Cybersecurity Framework to respond to a security incident
 
 # Skills Gained
-- How to read a Wireshark TCP/HTTP log
+- network hardening
+- security hardening
+- intrusion methods.
     
- Wireshark TCP/HTTP - log for network traffic between employee website visitors and the company’s web server. Most network protocol/traffic analyzer tools used to capture packets
-
 # Outcomes 
 
 Cybersecurity Analyze network attacks incident report 
 
-<img width="552" alt="image" src="https://github.com/BluuChipp/Analyze-network-attacks/assets/144733257/d1838ada-5691-4e5b-a8e5-7716736a0a89">
-
-<img width="553" alt="image" src="https://github.com/BluuChipp/Analyze-network-attacks/assets/144733257/f9772b44-7f7b-4dca-b2ff-d75d477b7c0f">
+<img width="459" alt="image" src="https://github.com/BluuChipp/Analyze-network-attacks/assets/144733257/3be39431-29e4-4f02-b587-4f4a1bc3f36c">
 
 
-in the File above I used a Analyze network incident report to document details about Wireshark TCP/HTTP log attack on a companys network. 
+<img width="460" alt="image" src="https://github.com/BluuChipp/Analyze-network-attacks/assets/144733257/a2e6b9e0-8175-4d48-a786-f96525eb0d20">
+
+
+
+in the file above I used a Security incident to document details about an attack on a website/servers and the Security hardening techeniques analysis used to identify the problem an what procuders was advised to avoid another attack.
